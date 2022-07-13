@@ -1,0 +1,71 @@
+header .conteiner {
+    margin: 10px auto;
+    text-align: center;
+    width: 1140px;
+    height: 100vh;
+    background-image: url(/chef-icon.png);
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+header h1{
+    margin-top: 100px;
+}
+.conteiner {
+    width: 1140px;
+    margin: o auto;
+    border: 2px solid black;
+    padding: 20px;
+}
+.conteiner h1 {
+    width: 150px;
+    margin: o auto;
+}
+.item {
+    display: inline-block;
+    width: 30%;
+    height: 30vh;
+     background-image: url("/food1.jpg");
+     background-position: top;
+     background-repeat: no-repeat;
+}
+.etem { 
+    display: inline-block;
+    width: 30%;
+    height: 30vh;
+    background-image:url("/food2.jpg") ;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+.ilem {
+    display: inline-block;
+    width: 30%;
+    height: 30vh;
+    background-image: url("/food3.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+}
+.itam {
+    display: inline-block;
+    width: 30%;
+    height: 30vh;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-image: url("/food5.jpg");
+}
+.itet {
+display: inline-block;
+width: 30%;
+height: 30vh;
+background-image: url("/food6.jpg");
+background-position: top;
+background-repeat: no-repeat;
+}
+.etim {
+    display: inline-block;
+    width: 39%;
+    height: 30vh;
+    background-image: url("/food7.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+}
